@@ -1,0 +1,16 @@
+user_id,name,skills,current_load,experience_years,preferred_priority
+U01,User_1,Control Flow,9,7,Medium
+U02,User_2,Basics,9,7,Medium
+U03,User_3,Algorithms,3,2,Medium
+U04,User_4,Modules and Libraries,6,8,High
+U05,User_5,OOP,10,8,Low
+U06,User_6,Decorators,3,1,Low
+U07,User_7,File I/O,10,10,Medium
+U08,User_8,Error Handling,5,7,Low
+U09,User_9,Web,5,9,Low
+U10,User_10,Comprehensions,7,5,Low
+U11,User_11,System Programming,10,3,Low
+U12,User_12,Scripting,9,6,Low
+U13,User_13,Data Science,3,1,High
+U14,User_14,Generators,8,3,Medium
+U15,User_15,Functions,1,4,Medium

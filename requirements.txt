@@ -1,0 +1,8 @@
+streamlit
+pandas
+string
+nltk
+stopwords
+PorterStemmer
+TfidfVectorizer
+RandomForestClassifier
